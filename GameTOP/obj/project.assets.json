@@ -12,17 +12,17 @@
           "bin/placeholder/GameTOP.Interface.dll": {}
         }
       },
-      "GameTOP.lib/1.0.0": {
+      "GameTOP.Lib/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
         "dependencies": {
           "GameTOP.Interface": "1.0.0"
         },
         "compile": {
-          "bin/placeholder/GameTOP.lib.dll": {}
+          "bin/placeholder/GameTOP.Lib.dll": {}
         },
         "runtime": {
-          "bin/placeholder/GameTOP.lib.dll": {}
+          "bin/placeholder/GameTOP.Lib.dll": {}
         }
       }
     }
@@ -33,16 +33,16 @@
       "path": "../GameTOP.Interface/GameTOP.Interface.csproj",
       "msbuildProject": "../GameTOP.Interface/GameTOP.Interface.csproj"
     },
-    "GameTOP.lib/1.0.0": {
+    "GameTOP.Lib/1.0.0": {
       "type": "project",
-      "path": "../GameTOP.Lib/GameTOP.lib.csproj",
-      "msbuildProject": "../GameTOP.Lib/GameTOP.lib.csproj"
+      "path": "../GameTOP.Lib/GameTOP.Lib.csproj",
+      "msbuildProject": "../GameTOP.Lib/GameTOP.Lib.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.0": [
       "GameTOP.Interface >= 1.0.0",
-      "GameTOP.lib >= 1.0.0"
+      "GameTOP.Lib >= 1.0.0"
     ]
   },
   "packageFolders": {

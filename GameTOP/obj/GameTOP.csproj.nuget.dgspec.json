@@ -59,12 +59,12 @@
         }
       }
     },
-    "C:\\Users\\lexbr\\Documents\\Cursos\\ConsoleCore\\GameTOP.Lib\\GameTOP.lib.csproj": {
+    "C:\\Users\\lexbr\\Documents\\Cursos\\ConsoleCore\\GameTOP.Lib\\GameTOP.Lib.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lexbr\\Documents\\Cursos\\ConsoleCore\\GameTOP.Lib\\GameTOP.lib.csproj",
-        "projectName": "GameTOP.lib",
-        "projectPath": "C:\\Users\\lexbr\\Documents\\Cursos\\ConsoleCore\\GameTOP.Lib\\GameTOP.lib.csproj",
+        "projectUniqueName": "C:\\Users\\lexbr\\Documents\\Cursos\\ConsoleCore\\GameTOP.Lib\\GameTOP.Lib.csproj",
+        "projectName": "GameTOP.Lib",
+        "projectPath": "C:\\Users\\lexbr\\Documents\\Cursos\\ConsoleCore\\GameTOP.Lib\\GameTOP.Lib.csproj",
         "packagesPath": "C:\\Users\\lexbr\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\lexbr\\Documents\\Cursos\\ConsoleCore\\GameTOP.Lib\\obj\\",
         "projectStyle": "PackageReference",
