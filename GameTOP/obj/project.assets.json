@@ -1,0 +1,110 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.0": {
+      "GameTOP.Interface/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/GameTOP.Interface.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameTOP.Interface.dll": {}
+        }
+      },
+      "GameTOP.lib/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "GameTOP.Interface": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/GameTOP.lib.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/GameTOP.lib.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GameTOP.Interface/1.0.0": {
+      "type": "project",
+      "path": "../GameTOP.Interface/GameTOP.Interface.csproj",
+      "msbuildProject": "../GameTOP.Interface/GameTOP.Interface.csproj"
+    },
+    "GameTOP.lib/1.0.0": {
+      "type": "project",
+      "path": "../GameTOP.Lib/GameTOP.lib.csproj",
+      "msbuildProject": "../GameTOP.Lib/GameTOP.lib.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.0": [
+      "GameTOP.Interface >= 1.0.0",
+      "GameTOP.lib >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\lexbr\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\lexbr\\Documents\\Cursos\\ConsoleCore\\GameTOP\\GameTOP.csproj",
+      "projectName": "GameTOP",
+      "projectPath": "C:\\Users\\lexbr\\Documents\\Cursos\\ConsoleCore\\GameTOP\\GameTOP.csproj",
+      "packagesPath": "C:\\Users\\lexbr\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\lexbr\\Documents\\Cursos\\ConsoleCore\\GameTOP\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\lexbr\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.0"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.0": {
+          "projectReferences": {
+            "C:\\Users\\lexbr\\Documents\\Cursos\\ConsoleCore\\GameTOP.Interface\\GameTOP.Interface.csproj": {
+              "projectPath": "C:\\Users\\lexbr\\Documents\\Cursos\\ConsoleCore\\GameTOP.Interface\\GameTOP.Interface.csproj"
+            },
+            "C:\\Users\\lexbr\\Documents\\Cursos\\ConsoleCore\\GameTOP.Lib\\GameTOP.lib.csproj": {
+              "projectPath": "C:\\Users\\lexbr\\Documents\\Cursos\\ConsoleCore\\GameTOP.Lib\\GameTOP.lib.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.0": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.0.100\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

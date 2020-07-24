@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\lexbr\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\lexbr\\.nuget\\packages"
+    ]
+  }
+}

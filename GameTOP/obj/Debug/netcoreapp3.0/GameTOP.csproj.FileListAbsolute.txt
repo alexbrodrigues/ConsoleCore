@@ -1,0 +1,16 @@
+C:\Users\lexbr\Documents\Cursos\ConsoleCore\GameTop\bin\Debug\netcoreapp3.0\GameTOP.exe
+C:\Users\lexbr\Documents\Cursos\ConsoleCore\GameTop\bin\Debug\netcoreapp3.0\GameTOP.deps.json
+C:\Users\lexbr\Documents\Cursos\ConsoleCore\GameTop\bin\Debug\netcoreapp3.0\GameTOP.runtimeconfig.json
+C:\Users\lexbr\Documents\Cursos\ConsoleCore\GameTop\bin\Debug\netcoreapp3.0\GameTOP.runtimeconfig.dev.json
+C:\Users\lexbr\Documents\Cursos\ConsoleCore\GameTop\bin\Debug\netcoreapp3.0\GameTOP.dll
+C:\Users\lexbr\Documents\Cursos\ConsoleCore\GameTop\bin\Debug\netcoreapp3.0\GameTOP.pdb
+C:\Users\lexbr\Documents\Cursos\ConsoleCore\GameTop\obj\Debug\netcoreapp3.0\GameTOP.csprojAssemblyReference.cache
+C:\Users\lexbr\Documents\Cursos\ConsoleCore\GameTop\obj\Debug\netcoreapp3.0\GameTOP.AssemblyInfoInputs.cache
+C:\Users\lexbr\Documents\Cursos\ConsoleCore\GameTop\obj\Debug\netcoreapp3.0\GameTOP.AssemblyInfo.cs
+C:\Users\lexbr\Documents\Cursos\ConsoleCore\GameTop\obj\Debug\netcoreapp3.0\GameTOP.dll
+C:\Users\lexbr\Documents\Cursos\ConsoleCore\GameTop\obj\Debug\netcoreapp3.0\GameTOP.pdb
+C:\Users\lexbr\Documents\Cursos\ConsoleCore\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.Interface.dll
+C:\Users\lexbr\Documents\Cursos\ConsoleCore\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.lib.dll
+C:\Users\lexbr\Documents\Cursos\ConsoleCore\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.lib.pdb
+C:\Users\lexbr\Documents\Cursos\ConsoleCore\GameTOP\bin\Debug\netcoreapp3.0\GameTOP.Interface.pdb
+C:\Users\lexbr\Documents\Cursos\ConsoleCore\GameTOP\obj\Debug\netcoreapp3.0\GameTOP.csproj.CopyComplete
